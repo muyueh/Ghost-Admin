@@ -652,6 +652,14 @@
     lodash "^4.17.11"
     to-fast-properties "^2.0.0"
 
+"@bugfix/mobiledoc-kit@0.11.1-ghost.5":
+  version "0.11.1-ghost.5"
+  resolved "https://registry.yarnpkg.com/@bugfix/mobiledoc-kit/-/mobiledoc-kit-0.11.1-ghost.5.tgz#db9f240fd44d55de243ebdd87c6a890b7e48f0d1"
+  integrity sha512-eFWDcSnh6OqqTAQi4OnR5h+n/9DMYzcY7/mmJEsZGijyyBBkIul938ogU5IegJxzSWUp3NXSqeYXFGZGrqpmXg==
+  dependencies:
+    mobiledoc-dom-renderer "0.6.5"
+    mobiledoc-text-renderer "0.3.2"
+
 "@cnakazawa/watch@^1.0.3":
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/@cnakazawa/watch/-/watch-1.0.3.tgz#099139eaec7ebf07a27c1786a3ff64f39464d2ef"
@@ -775,14 +783,6 @@
   version "0.7.1"
   resolved "https://registry.yarnpkg.com/@sinonjs/text-encoding/-/text-encoding-0.7.1.tgz#8da5c6530915653f3a1f38fd5f101d8c3f8079c5"
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
-
-"@tryghost/mobiledoc-kit@0.11.1-ghost.7":
-  version "0.11.1-ghost.7"
-  resolved "https://registry.yarnpkg.com/@tryghost/mobiledoc-kit/-/mobiledoc-kit-0.11.1-ghost.7.tgz#79b9ef018dc8c8829864e30602079ea7f4ef3cb6"
-  integrity sha512-kz2HDZ1V+GUYz+x08gVPFtcc1+96vwEGf7rfoR0wA+XYaCU31gdNgSi5zldk6Cs9a3uUJolHYdME+BUNwlVjVQ==
-  dependencies:
-    mobiledoc-dom-renderer "0.6.5"
-    mobiledoc-text-renderer "0.3.2"
 
 "@tryghost/timezone-data@0.1.1":
   version "0.1.1"
